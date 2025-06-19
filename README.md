@@ -18,4 +18,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 
 | Day |       Problem          |           Solution               |
 |-----|-------------------     |--------------------------------- |
-| 1   | (Create Hello Function)|      (./day1/two-sum.js)         |
+| 1   | (Create Hello Function)|      (./Closures/day1.js)         |
