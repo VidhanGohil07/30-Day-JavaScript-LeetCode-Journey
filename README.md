@@ -19,3 +19,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | Day |       Problem          |           Solution               |
 |-----|-------------------     |--------------------------------- |
 | 1   | (Create Hello Function)|      (Closures/Day-1.js)          |
+| 2    | (Counter)             |      (Closures/Day-2.js)          |
