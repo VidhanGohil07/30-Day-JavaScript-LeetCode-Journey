@@ -20,3 +20,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 |-----|-------------------     |--------------------------------- |
 | 1   | (Create Hello Function)|      (Closures/Day-1.js)          |
 | 2    | (Counter)             |      (Closures/Day-2.js)          |
+| 3   | (to be or to be not)   |       (Closures/Day-3.js)         |
