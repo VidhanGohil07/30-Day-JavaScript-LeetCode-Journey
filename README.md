@@ -22,3 +22,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 2    | (Counter)             |      (Closures/Day-2.js)          |
 | 3   | (To be or Not To be )   |       (Closures/Day-3.js)         |
 | 4   | (Counter 2)            |       (Closures/Day-4.js)         |
+| 5   | (Apply Transform Over Each Element In Array) |(Basic Array Transformations/Day-5.js) |
