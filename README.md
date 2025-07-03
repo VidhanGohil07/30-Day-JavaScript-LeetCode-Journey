@@ -25,3 +25,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 5   | (Apply Transform Over Each Element In Array) |(Basic Array Transformations/Day-5.js) |
 | 6   | (Filter Elements from Array) |(Basic Array Transformations/Day-6.js) |
 | 7   | (Array Reduce Transformation) |(Basic Array Transformations/Day-7.js) |
+| 8   | (Function Composition) |(Function Transformations/Day-8.js) |
