@@ -27,3 +27,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 7   | (Array Reduce Transformation) |(Basic Array Transformations/Day-7.js) |
 | 8   | (Function Composition) |(Function Transformations/Day-8.js) |
 | 9   | (Return Length of Arguments Passed) |(Function Transformations/Day-9.js) |
+| 10   | (Allow One Function Call) |(Function Transformations/Day-10.js) |
