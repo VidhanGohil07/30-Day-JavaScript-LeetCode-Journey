@@ -29,4 +29,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 9   | (Return Length of Arguments Passed) |(Function Transformations/Day-9.js) |
 | 10   | (Allow One Function Call) |(Function Transformations/Day-10.js) |
 | 11   | (Memoize) |(Function Transformations/Day-11.js) |
-| 12   | (Add Two Promises) |(Promises and Time/Day-11.js) |
+| 12   | (Add Two Promises) |(Promises and Time/Day-12.js) |
