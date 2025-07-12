@@ -32,3 +32,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 12   | (Add Two Promises) |(Promises and Time/Day-12.js) |
 | 13   | (Sleep) |(Promises and Time/Day-13.js) |
 | 14   | (Timeout Cancellation) |(Promises and Time/Day-14.js) |
+| 15   | (Interval Cancellation) |(Promises and Time/Day-15.js) |
