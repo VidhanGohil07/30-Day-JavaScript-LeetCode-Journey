@@ -36,3 +36,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 16   | (Promise Time Limit) |(Promises and Time/Day-16.js) |
 | 17   | (Cache With Time Limit) |(Promises and Time/Day-17.js) |
 | 18   | (Debouncet) |(Promises and Time/Day-18.js) |
+| 19   | (Execute Asynchronous Functions in Parallel) |(Promises and Time/Day-19.js) |
