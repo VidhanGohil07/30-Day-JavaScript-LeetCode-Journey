@@ -38,3 +38,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 18   | (Debouncet) |(Promises and Time/Day-18.js) |
 | 19   | (Execute Asynchronous Functions in Parallel) |(Promises and Time/Day-19.js) |
 | 20   | (Is Object Empty) |(JSON/Day-20.js) |
+| 21   | (Chunk Array) |(JSON/Day-21.js) |
