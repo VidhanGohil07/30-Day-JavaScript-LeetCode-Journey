@@ -41,3 +41,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 21   | (Chunk Array) |(JSON/Day-21.js) |
 | 22   | (Array Prototype Last) |(JSON/Day-22.js) |
 | 23   | (Group By) |(JSON/Day-23.js) |
+| 24   | (Sort By) |(JSON/Day-24.js) |
