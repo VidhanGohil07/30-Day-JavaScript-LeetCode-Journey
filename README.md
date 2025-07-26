@@ -44,3 +44,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 24   | (Sort By) |(JSON/Day-24.js) |
 | 25   | (Join Two Arrays by ID) |(JSON/Day-25.js) |
 | 26   | (Flatten Deeply Nested Array) |(JSON/Day-26.js) |
+| 26   | (Compact Object) |(JSON/Day-27.js) |
