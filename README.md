@@ -46,3 +46,4 @@ Whether you're a beginner or revising for interviews, I hope you find this repo 
 | 26   | (Flatten Deeply Nested Array) |(JSON/Day-26.js) |
 | 27   | (Compact Object) |(JSON/Day-27.js) |
 | 28   | (Event Emitter) |(Classes/Day-28.js) |
+| 29   | (Array Wrapper) |(Classes/Day-29.js) |
